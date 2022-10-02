@@ -13,6 +13,13 @@ export const styles = StyleSheet.create({
     fontWeight: '700',
     color: '#FDFCFE',
   },
+  subTitle: {
+    fontSize: 20,
+    fontWeight: '700',
+    color: '#FDFCFE',
+    marginTop: 42,
+    marginBottom: 16
+  },
   description: {
     fontSize: 16,
     color: '#6B6B6B',
@@ -21,5 +28,10 @@ export const styles = StyleSheet.create({
   form: {
     marginTop: 34,
     flexDirection: 'row',
+  },
+  emptyListText: {
+    color: '#FDFCFE',
+    fontSize: 14,
+    textAlign: 'center'
   }
 })
