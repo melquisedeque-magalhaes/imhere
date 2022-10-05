@@ -41,7 +41,7 @@ Projeto desenvolvido durante a especialiação da [Rocketseat](https://www.rocke
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma: 
+O layout da aplicação está disponível no Figma: [Figma](https://www.figma.com/file/ByEVbp1c0HYM98bzMPF43v/Chapter-I---Im-Here-(Copy))
 
 ### Mobile
 
@@ -53,7 +53,7 @@ O layout da aplicação está disponível no Figma:
 ---
 
 ## 🛠 Tecnologias
-As seguintes ferramentas foram usadas na constução do projeto: [Figma](https://www.figma.com/file/ByEVbp1c0HYM98bzMPF43v/Chapter-I---Im-Here-(Copy))
+As seguintes ferramentas foram usadas na constução do projeto: 
 - [TypeScript]
 - [React Native]
 - [Expo]
