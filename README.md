@@ -41,18 +41,19 @@ Projeto desenvolvido durante a especialiação da [Rocketseat](https://www.rocke
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma:
+O layout da aplicação está disponível no Figma: 
 
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/assets/mainScreen.png" width="200px">
+  <img alt="ImHere" title="#ImHere" src=".github/assets/mainScreen.png" width="200px">
+  <img alt="ImHere" title="#ImHere" src=".github/assets/mainScreenEmpty.png" width="200px">
 </p>
 
 ---
 
 ## 🛠 Tecnologias
-As seguintes ferramentas foram usadas na constução do projeto:
+As seguintes ferramentas foram usadas na constução do projeto: [Figma](https://www.figma.com/file/ByEVbp1c0HYM98bzMPF43v/Chapter-I---Im-Here-(Copy))
 - [TypeScript]
 - [React Native]
 - [Expo]
