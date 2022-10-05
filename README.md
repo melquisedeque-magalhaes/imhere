@@ -46,7 +46,7 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".gitbub/assets/mainScreen.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/assets/mainScreen.png" width="200px">
 </p>
 
 ---
@@ -69,7 +69,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/mguibtech/imhere.git
+` $  git clone https://github.com/mguibtech/imhere.git`
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd imhere
