@@ -33,5 +33,10 @@ export const styles = StyleSheet.create({
     color: '#FDFCFE',
     fontSize: 14,
     textAlign: 'center'
+  },
+  footer: {
+    marginTop: 16,
+    height: 56,
+    marginBottom: 16
   }
 })
